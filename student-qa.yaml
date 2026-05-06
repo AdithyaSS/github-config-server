@@ -9,4 +9,4 @@ spring:
     hibernate:
       ddl-auto: update
 student:
-  nickname: ddd-qa
+  nickname: eee-qa
